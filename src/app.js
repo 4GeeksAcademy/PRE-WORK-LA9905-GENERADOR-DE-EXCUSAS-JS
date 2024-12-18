@@ -8,7 +8,7 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
   // array with the words
-  let first = "A ";
+  let first = ["A ", "The"];
   let adj = [
     "two headed ",
     "nuclear ",
